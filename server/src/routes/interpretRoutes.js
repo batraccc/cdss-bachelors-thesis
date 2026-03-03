@@ -3,12 +3,17 @@ import { interpretDiplotype } from "../services/genotypeService.js";
 import { applyPhenoconversion } from "../services/phenoconversionService.js";
 import { getDrugRecommendation } from "../services/guidelineService.js";
 import { interpretPanel } from "../services/panelService.js";
+import { SingleInterpretSchema } from "../validation/singleSchema.js";
+import { normalizeSingleInput } from "../validation/normalizeSingle.js";
+import { ZodError } from "zod";
 
 const router = express.Router();
 
 router.post("/interpret/genotype", async (req, res) => {
   try{
-    const {gene, diplotype, currentDrugs, plannedDrug} = req.body;
+    const parsed = SingleInterpretSchema.parse(req.body);
+    const normalized = normalizeSingleInput(parsed);
+    const {gene, diplotype, currentDrugs, plannedDrug} = normalized;
     
     const genotypeResult = await interpretDiplotype(gene, diplotype);
 
@@ -31,11 +36,19 @@ router.post("/interpret/genotype", async (req, res) => {
         recommendation,
     });
 } catch (err) {
+    let message = "Invalid request";
+    
+    if(err instanceof ZodError){
+      message = err.issues[0].message;
+    } else {
+      message = err.message
+    }
+
     res.status(400).json({
-        ok: false,
-        error: err.message
+      ok: false,
+      error: message
     });
-}
+  }
 });
 
 router.post("/interpret/panel", async (req, res) => {

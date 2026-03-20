@@ -1,0 +1,89 @@
+drug_id,drug_name,drug_class
+1,clopidogrel,antiplatelet
+2,codeine,opioid
+3,paroxetine,ssri
+4,omeprazole,ppi
+5,warfarin,anticoagulant
+6,simvastatin,statin
+7,atorvastatin,statin
+8,rosuvastatin,statin
+9,amikacin,aminoglycoside antibiotic
+10,aspirin,nsaid
+11,atazanavir,antiretroviral
+12,atomoxetine,adhd medication
+13,celecoxib,nsaid
+14,chloroquine,antimalarial
+15,dapsone,antibiotic
+16,dexlansoprazole,ppi
+17,dibekacin,aminoglycoside antibiotic
+18,efavirenz,antiretroviral
+19,flurbiprofen,nsaid
+20,gentamicin,aminoglycoside antibiotic
+21,hydralazine,antihypertensive
+22,hydrocodone,opioid
+23,hydroxychloroquine,antimalarial
+24,ibuprofen,nsaid
+25,kanamycin,aminoglycoside antibiotic
+26,lansoprazole,ppi
+27,lornoxicam,nsaid
+28,meloxicam,nsaid
+29,methadone,opioid
+30,methoxyflurane,anesthetic
+31,methylene blue,antidote
+32,metoprolol,beta blocker
+33,neomycin,aminoglycoside antibiotic
+34,netilmicin,aminoglycoside antibiotic
+35,nitrofurantoin,antibiotic
+36,ondansetron,antiemetic
+37,pantoprazole,ppi
+38,paromomycin,aminoglycoside antibiotic
+39,piroxicam,nsaid
+40,plazomicin,aminoglycoside antibiotic
+41,primaquine,antimalarial
+42,ribavirin,antiviral
+43,ribostamycin,aminoglycoside antibiotic
+44,streptomycin,aminoglycoside antibiotic
+45,sulfamethoxazole,antibiotic
+46,tafenoquine,antimalarial
+47,tamoxifen,endocrine therapy
+48,tenoxicam,nsaid
+49,tobramycin,aminoglycoside antibiotic
+50,tropisetron,antiemetic
+51,venlafaxine,snri
+52,vitamin c,supplement
+53,vitamin k,supplement
+54,vortioxetine,antidepressant
+55,abacavir,antiretroviral
+56,allopurinol,antigout
+57,amitriptyline,tricyclic antidepressant
+58,azathioprine,immunosuppressant
+59,capecitabine,antineoplastic
+60,carbamazepine,antiepileptic
+61,citalopram,ssri
+62,desflurane,anesthetic
+63,enflurane,anesthetic
+64,escitalopram,ssri
+65,fluorouracil,antineoplastic
+66,fluvastatin,statin
+67,fluvoxamine,ssri
+68,halothane,anesthetic
+69,isoflurane,anesthetic
+70,ivacaftor,cftr modulator
+71,mercaptopurine,antineoplastic
+72,nortriptyline,tricyclic antidepressant
+73,oxcarbazepine,antiepileptic
+74,peginterferon alfa-2a,antiviral
+75,peginterferon alfa-2b,antiviral
+76,pegloticase,antigout
+77,phenytoin,antiepileptic
+78,pitavastatin,statin
+79,pravastatin,statin
+80,rasburicase,antigout
+81,sertraline,ssri
+82,sevoflurane,anesthetic
+83,succinylcholine,neuromuscular blocker
+84,tacrolimus,immunosuppressant
+85,tegafur,antineoplastic
+86,thioguanine,antineoplastic
+87,tramadol,opioid
+88,voriconazole,antifungal

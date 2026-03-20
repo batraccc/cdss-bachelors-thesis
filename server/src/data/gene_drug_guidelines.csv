@@ -1,0 +1,243 @@
+gene_id,drug_id,phenotype,recommendation_summary,alternatives,evidence_level,source,guideline_version
+CFTR,ivacaftor,ivacaftor responsive mutation,use ivacaftor according to standard dosing,strong,CPIC,2021
+CFTR,ivacaftor,ivacaftor non-responsive mutation,do not use ivacaftor because clinical benefit is not expected,,strong,CPIC,2021
+CYP2B6,efavirenz,ultrarapid metabolizer,use standard efavirenz dosing,,moderate,CPIC,2019
+CYP2B6,efavirenz,rapid metabolizer,use standard efavirenz dosing,,moderate,CPIC,2019
+CYP2B6,efavirenz,normal metabolizer,use standard efavirenz dosing,,strong,CPIC,2019
+CYP2B6,efavirenz,intermediate metabolizer,consider reduced efavirenz dose (400 mg daily),,strong,CPIC,2019
+CYP2B6,efavirenz,poor metabolizer,consider reduced efavirenz dose (200–400 mg daily) to reduce toxicity,,strong,CPIC,2019
+CYP2B6,methadone,rapid metabolizer,use standard methadone dosing titration and monitoring,,moderate,CPIC,2024
+CYP2B6,methadone,normal metabolizer,use standard methadone dosing titration and monitoring,,strong,CPIC,2024
+CYP2B6,methadone,intermediate metabolizer,use standard methadone dosing titration and monitoring,,moderate,CPIC,2024
+CYP2B6,methadone,poor metabolizer,use standard methadone dosing titration and monitoring,,moderate,CPIC,2024
+CYP2C19,clopidogrel,ultrarapid metabolizer,use standard clopidogrel dose (75 mg/day),,strong,CPIC,2022
+CYP2C19,clopidogrel,rapid metabolizer,use standard clopidogrel dose (75 mg/day),,strong,CPIC,2022
+CYP2C19,clopidogrel,normal metabolizer,use standard clopidogrel dose (75 mg/day),,strong,CPIC,2022
+CYP2C19,clopidogrel,intermediate metabolizer,avoid standard dose clopidogrel if possible,prasugrel|ticagrelor,strong,CPIC,2022
+CYP2C19,clopidogrel,poor metabolizer,avoid clopidogrel and use alternative antiplatelet therapy,prasugrel|ticagrelor,strong,CPIC,2022
+CYP2C19,omeprazole,ultrarapid metabolizer,increase starting dose by 100 percent and monitor efficacy,,optional,CPIC,2020
+CYP2C19,omeprazole,rapid metabolizer,start standard dose consider increase 50 to 100 percent if needed,,moderate,CPIC,2020
+CYP2C19,omeprazole,normal metabolizer,use standard dose,,moderate,CPIC,2020
+CYP2C19,omeprazole,intermediate metabolizer,start standard dose consider dose reduction in chronic therapy,,optional,CPIC,2020
+CYP2C19,omeprazole,poor metabolizer,start standard dose consider dose reduction in chronic therapy,,moderate,CPIC,2020
+CYP2C19,lansoprazole,ultrarapid metabolizer,increase starting dose by 100 percent and monitor efficacy,,optional,CPIC,2020
+CYP2C19,lansoprazole,rapid metabolizer,start standard dose consider increase 50 to 100 percent if needed,,moderate,CPIC,2020
+CYP2C19,lansoprazole,normal metabolizer,use standard dose,,moderate,CPIC,2020
+CYP2C19,lansoprazole,intermediate metabolizer,start standard dose consider dose reduction in chronic therapy,,optional,CPIC,2020
+CYP2C19,lansoprazole,poor metabolizer,start standard dose consider dose reduction in chronic therapy,,moderate,CPIC,2020
+CYP2C19,pantoprazole,ultrarapid metabolizer,increase starting dose by 100 percent and monitor efficacy,,optional,CPIC,2020
+CYP2C19,pantoprazole,rapid metabolizer,start standard dose consider increase 50 to 100 percent if needed,,moderate,CPIC,2020
+CYP2C19,pantoprazole,normal metabolizer,use standard dose,,moderate,CPIC,2020
+CYP2C19,pantoprazole,intermediate metabolizer,start standard dose consider dose reduction in chronic therapy,,optional,CPIC,2020
+CYP2C19,pantoprazole,poor metabolizer,start standard dose consider dose reduction in chronic therapy,,moderate,CPIC,2020
+CYP2C19,dexlansoprazole,ultrarapid metabolizer,increase starting dose by 100 percent and monitor efficacy,,optional,CPIC,2020
+CYP2C19,dexlansoprazole,rapid metabolizer,use standard dose monitor efficacy,,optional,CPIC,2020
+CYP2C19,dexlansoprazole,normal metabolizer,use standard dose,,optional,CPIC,2020
+CYP2C19,dexlansoprazole,intermediate metabolizer,use standard dose consider dose reduction in chronic therapy,,optional,CPIC,2020
+CYP2C19,dexlansoprazole,poor metabolizer,use standard dose consider dose reduction in chronic therapy,,optional,CPIC,2020
+CYP2C19,voriconazole,ultrarapid metabolizer,avoid voriconazole because therapeutic concentrations are unlikely,isavuconazole|liposomal amphotericin B|posaconazole,moderate,CPIC,2017
+CYP2C19,voriconazole,rapid metabolizer,avoid voriconazole due to low probability of achieving therapeutic concentrations,isavuconazole|liposomal amphotericin B|posaconazole,moderate,CPIC,2017
+CYP2C19,voriconazole,normal metabolizer,use standard voriconazole dosing,,strong,CPIC,2017
+CYP2C19,voriconazole,intermediate metabolizer,use standard dosing with therapeutic drug monitoring,,moderate,CPIC,2017
+CYP2C19,voriconazole,poor metabolizer,use alternative antifungal or reduced dose with careful therapeutic drug monitoring,isavuconazole|liposomal amphotericin B|posaconazole,moderate,CPIC,2017
+CYP2C9,celecoxib,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,celecoxib,intermediate metabolizer,start with lowest recommended dose and titrate carefully,,moderate,CPIC,2020
+CYP2C9,celecoxib,poor metabolizer,start with 25 to 50 percent of lowest recommended dose or choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,ibuprofen,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,ibuprofen,intermediate metabolizer,start with lowest recommended dose and monitor adverse events,,moderate,CPIC,2020
+CYP2C9,ibuprofen,poor metabolizer,start with 25 to 50 percent of lowest recommended dose or choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,flurbiprofen,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,flurbiprofen,intermediate metabolizer,start with lowest recommended dose and titrate carefully,,moderate,CPIC,2020
+CYP2C9,flurbiprofen,poor metabolizer,start with 25 to 50 percent of lowest recommended dose or choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,lornoxicam,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,lornoxicam,intermediate metabolizer,start with lowest recommended dose and monitor adverse events,,moderate,CPIC,2020
+CYP2C9,lornoxicam,poor metabolizer,start with 25 to 50 percent of lowest recommended dose or choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,meloxicam,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,meloxicam,intermediate metabolizer,start with 50 percent of lowest recommended dose or choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,meloxicam,poor metabolizer,avoid meloxicam and choose alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,piroxicam,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,piroxicam,intermediate metabolizer,use alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,piroxicam,poor metabolizer,use alternative therapy,aspirin|ketorolac|naproxen|sulindac,moderate,CPIC,2020
+CYP2C9,tenoxicam,normal metabolizer,use recommended starting dose,,strong,CPIC,2020
+CYP2C9,tenoxicam,intermediate metabolizer,use alternative therapy,aspirin|ketorolac|naproxen|sulindac,optional,CPIC,2020
+CYP2C9,tenoxicam,poor metabolizer,use alternative therapy,aspirin|ketorolac|naproxen|sulindac,optional,CPIC,2020
+HLA-B,phenytoin,HLA-B*15:02 positive,avoid phenytoin due to risk of Stevens Johnson syndrome and toxic epidermal necrolysis,lamotrigine|levetiracetam|valproate,strong,CPIC,2020
+HLA-B,phenytoin,HLA-B*15:02 negative,phenytoin can be used; adjust dosing based on CYP2C9 genotype,,strong,CPIC,2020
+CYP2C9,phenytoin,normal metabolizer,use standard dosing with therapeutic drug monitoring,,strong,CPIC,2020
+CYP2C9,phenytoin,intermediate metabolizer,use standard loading dose then reduce maintenance dose by approximately 25 percent,,moderate,CPIC,2020
+CYP2C9,phenytoin,poor metabolizer,use standard loading dose then reduce maintenance dose by approximately 50 percent,,strong,CPIC,2020
+CYP2C9,warfarin,normal metabolizer,use standard pharmacogenetic dosing algorithm with clinical factors,,strong,CPIC,2017
+CYP2C9,warfarin,intermediate metabolizer,reduce calculated maintenance dose due to decreased metabolism,,strong,CPIC,2017
+CYP2C9,warfarin,poor metabolizer,consider alternative anticoagulant or substantial dose reduction,apixaban|rivaroxaban,strong,CPIC,2017
+VKORC1,warfarin,normal expression,standard dosing predicted by pharmacogenetic algorithm,,strong,CPIC,2017
+VKORC1,warfarin,decreased expression,lower warfarin dose predicted due to increased sensitivity,,strong,CPIC,2017
+CYP4F2,warfarin,normal function,standard dosing predicted by pharmacogenetic algorithm,,moderate,CPIC,2017
+CYP4F2,warfarin,decreased function,increase predicted dose by approximately 5–10 percent,,optional,CPIC,2017
+CYP2D6,atomoxetine,ultrarapid metabolizer,start standard dose and if no response measure plasma concentration and consider dose increase,,moderate,CPIC,2019
+CYP2D6,atomoxetine,normal metabolizer,start standard dosing and adjust based on response and exposure,,moderate,CPIC,2019
+CYP2D6,atomoxetine,intermediate metabolizer,start standard dose but monitor for increased exposure and side effects,,moderate,CPIC,2019
+CYP2D6,atomoxetine,poor metabolizer,start standard dose but consider slower titration due to higher exposure and side effect risk,,strong,CPIC,2019
+CYP2D6,ondansetron,ultrarapid metabolizer,consider alternative antiemetic not metabolized by CYP2D6,granisetron,moderate,CPIC,2017
+CYP2D6,ondansetron,normal metabolizer,use standard recommended dosing,,strong,CPIC,2017
+CYP2D6,ondansetron,intermediate metabolizer,use standard recommended dosing,,weak,CPIC,2017
+CYP2D6,ondansetron,poor metabolizer,use standard recommended dosing,,weak,CPIC,2017
+CYP2D6,tropisetron,ultrarapid metabolizer,consider alternative antiemetic not metabolized by CYP2D6,granisetron,moderate,CPIC,2017
+CYP2D6,tropisetron,normal metabolizer,use standard recommended dosing,,strong,CPIC,2017
+CYP2D6,tropisetron,intermediate metabolizer,use standard recommended dosing,,weak,CPIC,2017
+CYP2D6,tropisetron,poor metabolizer,use standard recommended dosing,,weak,CPIC,2017
+CYP2D6,tamoxifen,ultrarapid metabolizer,use standard tamoxifen dosing and avoid strong CYP2D6 inhibitors,,strong,CPIC,2018
+CYP2D6,tamoxifen,normal metabolizer,use standard tamoxifen dosing and avoid strong CYP2D6 inhibitors,,strong,CPIC,2018
+CYP2D6,tamoxifen,intermediate metabolizer,consider alternative hormonal therapy such as aromatase inhibitor,anastrozole; letrozole; exemestane,moderate,CPIC,2018
+CYP2D6,tamoxifen,poor metabolizer,use alternative hormonal therapy instead of tamoxifen,anastrozole; letrozole; exemestane,strong,CPIC,2018
+CYP2D6,metoprolol,ultrarapid metabolizer,no specific recommendation due to insufficient evidence,,none,CPIC,2024
+CYP2D6,metoprolol,normal metabolizer,use standard metoprolol dosing,,strong,CPIC,2024
+CYP2D6,metoprolol,intermediate metabolizer,use standard metoprolol dosing,,moderate,CPIC,2024
+CYP2D6,metoprolol,poor metabolizer,start with lowest recommended dose and titrate carefully due to increased exposure,atenolol; bisoprolol; carvedilol,moderate,CPIC,2024
+CYP2D6,amitriptyline,ultrarapid metabolizer,avoid TCA due to risk of subtherapeutic concentrations,sertraline; citalopram,strong,CPIC,2016
+CYP2D6,amitriptyline,normal metabolizer,use standard dosing,,strong,CPIC,2016
+CYP2D6,amitriptyline,intermediate metabolizer,consider 25 percent dose reduction,,moderate,CPIC,2016
+CYP2D6,amitriptyline,poor metabolizer,avoid TCA or reduce starting dose by 50 percent,sertraline; citalopram,strong,CPIC,2016
+CYP2D6,nortriptyline,ultrarapid metabolizer,avoid TCA due to risk of treatment failure,sertraline; citalopram,strong,CPIC,2016
+CYP2D6,nortriptyline,normal metabolizer,use standard dosing,,strong,CPIC,2016
+CYP2D6,nortriptyline,intermediate metabolizer,consider 25 percent dose reduction,,moderate,CPIC,2016
+CYP2D6,nortriptyline,poor metabolizer,avoid TCA or reduce starting dose by 50 percent,sertraline; citalopram,strong,CPIC,2016
+CYP2C19,amitriptyline,ultrarapid metabolizer,avoid tertiary amines due to increased metabolism,nortriptyline; desipramine,optional,CPIC,2016
+CYP2C19,amitriptyline,rapid metabolizer,consider alternative drug,nortriptyline; desipramine,optional,CPIC,2016
+CYP2C19,amitriptyline,normal metabolizer,use standard dosing,,strong,CPIC,2016
+CYP2C19,amitriptyline,intermediate metabolizer,use standard dosing,,strong,CPIC,2016
+CYP2C19,amitriptyline,poor metabolizer,reduce starting dose by 50 percent or use alternative,nortriptyline; desipramine,moderate,CPIC,2016
+CYP2D6,paroxetine,ultrarapid metabolizer,avoid drug due to low exposure,sertraline; citalopram,moderate,CPIC,2023
+CYP2D6,paroxetine,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2D6,paroxetine,intermediate metabolizer,consider lower starting dose and slower titration,,optional,CPIC,2023
+CYP2D6,paroxetine,poor metabolizer,reduce starting dose by 50 percent or select alternative,sertraline; citalopram,moderate,CPIC,2023
+CYP2D6,fluvoxamine,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2D6,fluvoxamine,intermediate metabolizer,use standard dosing,,moderate,CPIC,2023
+CYP2D6,fluvoxamine,poor metabolizer,consider 25 to 50 percent dose reduction or alternative,sertraline; citalopram,optional,CPIC,2023
+CYP2D6,venlafaxine,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2D6,venlafaxine,intermediate metabolizer,no dose adjustment required,,weak,CPIC,2023
+CYP2D6,venlafaxine,poor metabolizer,consider alternative antidepressant not metabolized by CYP2D6,sertraline; citalopram,optional,CPIC,2023
+CYP2D6,vortioxetine,ultrarapid metabolizer,consider alternative antidepressant not metabolized by CYP2D6,sertraline; citalopram,optional,CPIC,2023
+CYP2D6,vortioxetine,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2D6,vortioxetine,intermediate metabolizer,use standard dosing,,moderate,CPIC,2023
+CYP2D6,vortioxetine,poor metabolizer,reduce starting dose by 50 percent,,moderate,CPIC,2023
+CYP2C19,citalopram,ultrarapid metabolizer,consider alternative antidepressant not metabolized by CYP2C19,sertraline; fluoxetine,strong,CPIC,2023
+CYP2C19,citalopram,rapid metabolizer,start standard dose but consider increase if ineffective,,optional,CPIC,2023
+CYP2C19,citalopram,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2C19,citalopram,intermediate metabolizer,consider slower titration,,moderate,CPIC,2023
+CYP2C19,citalopram,poor metabolizer,reduce dose by 50 percent or select alternative,sertraline; fluoxetine,strong,CPIC,2023
+CYP2C19,escitalopram,ultrarapid metabolizer,consider alternative antidepressant,sertraline; fluoxetine,strong,CPIC,2023
+CYP2C19,escitalopram,rapid metabolizer,standard dose with monitoring,,optional,CPIC,2023
+CYP2C19,escitalopram,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2C19,escitalopram,intermediate metabolizer,consider slower titration,,moderate,CPIC,2023
+CYP2C19,escitalopram,poor metabolizer,reduce dose by 50 percent or select alternative,sertraline; fluoxetine,strong,CPIC,2023
+CYP2C19,sertraline,ultrarapid metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2C19,sertraline,rapid metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2C19,sertraline,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2C19,sertraline,intermediate metabolizer,consider slower titration,,moderate,CPIC,2023
+CYP2C19,sertraline,poor metabolizer,reduce dose by 50 percent or select alternative,fluoxetine; venlafaxine,moderate,CPIC,2023
+CYP2B6,sertraline,normal metabolizer,use standard dosing,,strong,CPIC,2023
+CYP2B6,sertraline,intermediate metabolizer,consider slower titration,,optional,CPIC,2023
+CYP2B6,sertraline,poor metabolizer,reduce maintenance dose by 25 percent,,optional,CPIC,2023
+CYP2D6,codeine,ultrarapid metabolizer,avoid codeine due to toxicity risk,morphine; non-opioid analgesics,strong,CPIC,2021
+CYP2D6,codeine,normal metabolizer,use standard dosing,,strong,CPIC,2021
+CYP2D6,codeine,intermediate metabolizer,use standard dosing but monitor response,morphine; non-opioid analgesics,moderate,CPIC,2021
+CYP2D6,codeine,poor metabolizer,avoid codeine due to lack of analgesic effect,morphine; non-opioid analgesics,strong,CPIC,2021
+CYP2D6,tramadol,ultrarapid metabolizer,avoid tramadol due to toxicity risk,morphine; non-opioid analgesics,strong,CPIC,2021
+CYP2D6,tramadol,normal metabolizer,use standard dosing,,strong,CPIC,2021
+CYP2D6,tramadol,intermediate metabolizer,use standard dosing but monitor response,non-opioid analgesics,optional,CPIC,2021
+CYP2D6,tramadol,poor metabolizer,avoid tramadol due to poor analgesic effect,morphine; non-opioid analgesics,strong,CPIC,2021
+CYP2D6,hydrocodone,normal metabolizer,use standard dosing,,strong,CPIC,2021
+CYP2D6,hydrocodone,intermediate metabolizer,use standard dosing but consider alternative if ineffective,morphine; non-opioid analgesics,optional,CPIC,2021
+CYP2D6,hydrocodone,poor metabolizer,use standard dosing but consider alternative if ineffective,morphine; non-opioid analgesics,optional,CPIC,2021
+CYP3A5,tacrolimus,extensive metabolizer,increase starting dose 1.5 to 2 times standard dose and monitor levels,,strong,CPIC,2015
+CYP3A5,tacrolimus,intermediate metabolizer,increase starting dose 1.5 to 2 times standard dose and monitor levels,,strong,CPIC,2015
+CYP3A5,tacrolimus,poor metabolizer,use standard starting dose and adjust using therapeutic drug monitoring,,strong,CPIC,2015
+DPYD,capecitabine,normal metabolizer,use standard recommended starting dose,,strong,CPIC,2017
+DPYD,capecitabine,intermediate metabolizer,reduce starting dose by 25-50 percent followed by dose titration,,strong,CPIC,2017
+DPYD,capecitabine,poor metabolizer,avoid fluoropyrimidine therapy if possible or use strongly reduced dose with monitoring,non fluoropyrimidine chemotherapy,strong,CPIC,2017
+DPYD,fluorouracil,normal metabolizer,use standard recommended starting dose,,strong,CPIC,2017
+DPYD,fluorouracil,intermediate metabolizer,reduce starting dose by 25-50 percent followed by dose titration,,strong,CPIC,2017
+DPYD,fluorouracil,poor metabolizer,avoid fluoropyrimidine therapy if possible or use strongly reduced dose with monitoring,non fluoropyrimidine chemotherapy,strong,CPIC,2017
+DPYD,tegafur,normal metabolizer,insufficient evidence for dose modification,,moderate,CPIC,2017
+DPYD,tegafur,intermediate metabolizer,consider reduced dose and careful monitoring,,moderate,CPIC,2017
+DPYD,tegafur,poor metabolizer,avoid therapy if possible,,moderate,CPIC,2017
+G6PD,rasburicase,deficient,avoid use due to high risk of hemolysis,allopurinol,strong,CPIC,2023
+G6PD,pegloticase,deficient,avoid use due to high risk of hemolysis,,strong,CPIC,2023
+G6PD,tafenoquine,deficient,avoid use due to risk of hemolysis,,strong,CPIC,2023
+G6PD,dapsone,deficient,avoid use due to risk of hemolysis,,strong,CPIC,2023
+G6PD,nitrofurantoin,deficient,use with caution and monitor for hemolysis,,moderate,CPIC,2023
+G6PD,primaquine,deficient,avoid standard dosing or use alternative regimen,,strong,CPIC,2023
+G6PD,sulfamethoxazole,deficient,use standard dosing with monitoring,,optional,CPIC,2023
+G6PD,aspirin,deficient,use normally at standard doses,,moderate,CPIC,2023
+G6PD,chloroquine,deficient,use normally,,moderate,CPIC,2023
+G6PD,hydroxychloroquine,deficient,use normally,,moderate,CPIC,2023
+HLA-B,carbamazepine,carrier,avoid carbamazepine due to high risk of severe cutaneous adverse reactions,consider alternative anticonvulsant,strong,CPIC,2017
+HLA-A,carbamazepine,carrier,avoid carbamazepine if possible due to hypersensitivity risk,consider alternative anticonvulsant,strong,CPIC,2017
+HLA-B,oxcarbazepine,carrier,avoid oxcarbazepine if possible due to risk of severe cutaneous reactions,consider alternative anticonvulsant,moderate,CPIC,2017
+HLA-A,oxcarbazepine,carrier,consider alternative therapy due to hypersensitivity risk,,moderate,CPIC,2017
+HLA-B,abacavir,carrier,do not prescribe abacavir due to high risk of hypersensitivity reaction,use alternative antiretroviral,strong,CPIC,2014
+HLA-B,abacavir,non carrier,abacavir can be used with standard dosing,,strong,CPIC,2014
+HLA-B,allopurinol,carrier,avoid allopurinol due to high risk of severe cutaneous adverse reactions,use alternative urate lowering therapy,strong,CPIC,2015
+HLA-B,allopurinol,non carrier,allopurinol can be used with standard dosing,,strong,CPIC,2015
+IFNL3,peginterferon alfa-2a,favorable response,standard therapy likely effective,,moderate,CPIC,2014
+IFNL3,peginterferon alfa-2a,unfavorable response,consider alternative antiviral regimens,direct acting antivirals,moderate,CPIC,2014
+IFNL3,peginterferon alfa-2b,favorable response,standard therapy likely effective,,moderate,CPIC,2014
+IFNL3,peginterferon alfa-2b,unfavorable response,consider alternative antiviral regimens,direct acting antivirals,moderate,CPIC,2014
+IFNL3,ribavirin,favorable response,higher likelihood of treatment success,,moderate,CPIC,2014
+IFNL3,ribavirin,unfavorable response,consider alternative therapy,direct acting antivirals,moderate,CPIC,2014
+MT-RNR1,amikacin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,gentamicin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,tobramycin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,kanamycin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,neomycin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,streptomycin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,netilmicin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,paromomycin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+MT-RNR1,plazomicin,increased risk,avoid aminoglycosides due to risk of permanent hearing loss,use non aminoglycoside antibiotics,strong,CPIC,2021
+NAT2,hydralazine,slow acetylator,consider lower starting dose and monitor for lupus like symptoms,,moderate,CPIC,2024
+NAT2,hydralazine,intermediate acetylator,standard dosing with monitoring,,moderate,CPIC,2024
+NAT2,hydralazine,rapid acetylator,standard dosing may be used,,moderate,CPIC,2024
+RYR1,desflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,enflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,halothane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,isoflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,methoxyflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,sevoflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+RYR1,succinylcholine,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,desflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,enflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,halothane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,isoflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,methoxyflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,sevoflurane,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+CACNA1S,succinylcholine,malignant hyperthermia susceptibility,avoid triggering anesthetics due to risk of malignant hyperthermia,use non triggering anesthetics,strong,CPIC,2019
+SLCO1B1,simvastatin,decreased function,consider lower dose or alternative statin,pravastatin or rosuvastatin,strong,CPIC,2022
+SLCO1B1,simvastatin,poor function,avoid simvastatin due to high myopathy risk,pravastatin or rosuvastatin,strong,CPIC,2022
+SLCO1B1,atorvastatin,decreased function,consider lower starting dose,,moderate,CPIC,2022
+SLCO1B1,atorvastatin,poor function,consider alternative statin,pravastatin or fluvastatin,moderate,CPIC,2022
+SLCO1B1,rosuvastatin,decreased function,standard dosing with monitoring,,moderate,CPIC,2022
+SLCO1B1,rosuvastatin,poor function,consider lower starting dose,,moderate,CPIC,2022
+SLCO1B1,pravastatin,decreased function,standard dosing with monitoring,,optional,CPIC,2022
+SLCO1B1,fluvastatin,decreased function,standard dosing,,optional,CPIC,2022
+SLCO1B1,pitavastatin,decreased function,standard dosing,,optional,CPIC,2022
+TPMT,azathioprine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+TPMT,azathioprine,intermediate metabolizer,start with reduced dose about 30 to 80 percent of normal,,strong,CPIC,2024
+TPMT,azathioprine,poor metabolizer,consider alternative therapy or drastically reduced dose,non thiopurine therapy,strong,CPIC,2024
+TPMT,mercaptopurine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+TPMT,mercaptopurine,intermediate metabolizer,start with reduced dose about 30 to 80 percent of normal,,strong,CPIC,2024
+TPMT,mercaptopurine,poor metabolizer,consider alternative therapy or drastically reduced dose,non thiopurine therapy,strong,CPIC,2024
+TPMT,thioguanine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+TPMT,thioguanine,intermediate metabolizer,start with reduced dose,,strong,CPIC,2024
+TPMT,thioguanine,poor metabolizer,consider alternative therapy,non thiopurine therapy,strong,CPIC,2024
+NUDT15,azathioprine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+NUDT15,azathioprine,intermediate metabolizer,start with reduced dose about 30 to 80 percent of normal,,strong,CPIC,2024
+NUDT15,azathioprine,poor metabolizer,consider alternative therapy or drastically reduced dose,non thiopurine therapy,strong,CPIC,2024
+NUDT15,mercaptopurine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+NUDT15,mercaptopurine,intermediate metabolizer,start with reduced dose about 30 to 80 percent of normal,,strong,CPIC,2024
+NUDT15,mercaptopurine,poor metabolizer,consider alternative therapy or drastically reduced dose,non thiopurine therapy,strong,CPIC,2024
+NUDT15,thioguanine,normal metabolizer,standard starting dose,,strong,CPIC,2024
+NUDT15,thioguanine,intermediate metabolizer,start with reduced dose,,strong,CPIC,2024
+NUDT15,thioguanine,poor metabolizer,consider alternative therapy,non thiopurine therapy,strong,CPIC,2024
+UGT1A1,atazanavir,normal metabolizer,standard dosing,,strong,CPIC,2016
+UGT1A1,atazanavir,intermediate metabolizer,increased likelihood of hyperbilirubinemia but no dose adjustment required,,strong,CPIC,2016
+UGT1A1,atazanavir,poor metabolizer,consider alternative antiretroviral therapy due to high bilirubin levels,darunavir or other protease inhibitor,strong,CPIC,2016

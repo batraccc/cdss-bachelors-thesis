@@ -1,0 +1,447 @@
+gene,allele,activity_score,allele_function
+ABCG2,rs2231142-G,,normal function
+ABCG2,rs2231142-T,,decreased function
+CACNA1S,WT,,normal function
+CACNA1S,c.520C>T,,risk allele
+CACNA1S,c.3257G>A,,risk allele
+CYP2B6,*1,,normal function
+CYP2B6,*2,,normal function
+CYP2B6,*4,,increased function
+CYP2B6,*5,,normal function
+CYP2B6,*6,,decreased function
+CYP2B6,*7,,decreased function
+CYP2B6,*8,,no function
+CYP2B6,*9,,decreased function
+CYP2B6,*12,,no function
+CYP2B6,*13,,no function
+CYP2B6,*17,,normal function
+CYP2B6,*18,,no function
+CYP2B6,*19,,decreased function
+CYP2B6,*20,,decreased function
+CYP2B6,*26,,decreased function
+CYP2B6,*28,,no function
+CYP2B6,*29,,decreased function
+CYP2B6,*30,,no function
+CYP2B6,*31,,normal function
+CYP2B6,*32,,normal function
+CYP2B6,*34,,decreased function
+CYP2B6,*36,,decreased function
+CYP2B6,*37,,decreased function
+CYP2B6,*38,,no function
+CYP2B6,*39,,decreased function
+CYP2B6,*40,,decreased function
+CYP2B6,*41,,decreased function
+CYP2B6,*42,,decreased function
+CYP2B6,*43,,decreased function
+CYP2C19,*1,,normal function
+CYP2C19,*2,,no function
+CYP2C19,*3,,no function
+CYP2C19,*4,,no function
+CYP2C19,*5,,no function
+CYP2C19,*6,,no function
+CYP2C19,*7,,no function
+CYP2C19,*8,,no function
+CYP2C19,*9,,decreased function
+CYP2C19,*10,,decreased function
+CYP2C19,*11,,normal function
+CYP2C19,*13,,normal function
+CYP2C19,*15,,normal function
+CYP2C19,*16,,decreased function
+CYP2C19,*17,,increased function
+CYP2C19,*18,,normal function
+CYP2C19,*19,,decreased function
+CYP2C19,*22,,no function
+CYP2C19,*24,,no function
+CYP2C19,*25,,decreased function
+CYP2C19,*26,,decreased function
+CYP2C19,*28,,normal function
+CYP2C19,*35,,no function
+CYP2C19,*36,,no function
+CYP2C19,*37,,no function
+CYP2C19,*38,,normal function
+CYP2C9,*1,1,normal function
+CYP2C9,*2,0.5,decreased function
+CYP2C9,*3,0,no function
+CYP2C9,*4,0.5,decreased function
+CYP2C9,*5,0.5,decreased function
+CYP2C9,*6,0,no function
+CYP2C9,*8,0.5,decreased function
+CYP2C9,*9,1,normal function
+CYP2C9,*11,0.5,decreased function
+CYP2C9,*12,0.5,decreased function
+CYP2C9,*13,0,no function
+CYP2C9,*14,0.5,decreased function
+CYP2C9,*15,0,no function
+CYP2C9,*16,0.5,decreased function
+CYP2C9,*23,0.5,decreased function
+CYP2C9,*24,0,no function
+CYP2C9,*25,0,no function
+CYP2C9,*26,0.5,decreased function
+CYP2C9,*28,0.5,decreased function
+CYP2C9,*29,0.5,decreased function
+CYP2C9,*30,0.5,decreased function
+CYP2C9,*31,0.5,decreased function
+CYP2C9,*33,0,no function
+CYP2C9,*35,0,no function
+CYP2C9,*37,0.5,decreased function
+CYP2C9,*38,0.5,decreased function
+CYP2C9,*39,0,no function
+CYP2C9,*42,0,no function
+CYP2C9,*43,0,no function
+CYP2C9,*44,0.5,decreased function
+CYP2C9,*45,0,no function
+CYP2C9,*46,0.5,decreased function
+CYP2C9,*50,0.5,decreased function
+CYP2C9,*52,0,no function
+CYP2C9,*55,0.5,decreased function
+CYP2C9,*61,0.5,decreased function
+CYP2D6,*1,1,normal function
+CYP2D6,*2,1,normal function
+CYP2D6,*27,1,normal function
+CYP2D6,*33,1,normal function
+CYP2D6,*34,1,normal function
+CYP2D6,*35,1,normal function
+CYP2D6,*39,1,normal function
+CYP2D6,*45,1,normal function
+CYP2D6,*46,1,normal function
+CYP2D6,*48,1,normal function
+CYP2D6,*53,1,normal function
+CYP2D6,*1x2,2,increased function
+CYP2D6,*2x2,2,increased function
+CYP2D6,*27x2,2,increased function
+CYP2D6,*35x2,2,increased function
+CYP2D6,*45x2,2,increased function
+CYP2D6,*9,0.25,decreased function
+CYP2D6,*10,0.25,decreased function
+CYP2D6,*14,0.5,decreased function
+CYP2D6,*17,0.5,decreased function
+CYP2D6,*29,0.5,decreased function
+CYP2D6,*32,0.25,decreased function
+CYP2D6,*41,0.25,decreased function
+CYP2D6,*49,0.5,decreased function
+CYP2D6,*50,0.5,decreased function
+CYP2D6,*52,0.25,decreased function
+CYP2D6,*54,0.5,decreased function
+CYP2D6,*55,0.5,decreased function
+CYP2D6,*59,0.5,decreased function
+CYP2D6,*91,0.25,decreased function
+CYP2D6,*109,0.25,decreased function
+CYP2D6,*119,0.25,decreased function
+CYP2D6,*132,0.25,decreased function
+CYP2D6,*3,0,no function
+CYP2D6,*4,0,no function
+CYP2D6,*5,0,no function
+CYP2D6,*6,0,no function
+CYP2D6,*7,0,no function
+CYP2D6,*8,0,no function
+CYP2D6,*11,0,no function
+CYP2D6,*12,0,no function
+CYP2D6,*13,0,no function
+CYP2D6,*15,0,no function
+CYP2D6,*18,0,no function
+CYP2D6,*19,0,no function
+CYP2D6,*20,0,no function
+CYP2D6,*21,0,no function
+CYP2D6,*31,0,no function
+CYP2D6,*36,0,no function
+CYP2D6,*38,0,no function
+CYP2D6,*40,0,no function
+CYP2D6,*42,0,no function
+CYP2D6,*44,0,no function
+CYP2D6,*47,0,no function
+CYP2D6,*51,0,no function
+CYP2D6,*56,0,no function
+CYP2D6,*60,0,no function
+CYP2D6,*62,0,no function
+CYP2D6,*68,0,no function
+CYP2D6,*69,0,no function
+CYP2D6,*81,0,no function
+CYP2D6,*92,0,no function
+CYP2D6,*96,0,no function
+CYP2D6,*99,0,no function
+CYP2D6,*100,0,no function
+CYP2D6,*101,0,no function
+CYP2D6,*114,0,no function
+CYP2D6,*120,0,no function
+CYP2D6,*124,0,no function
+CYP2D6,*129,0,no function
+CYP2D6,*143,0,no function
+CYP2D6,*144,0,no function
+CYP2D6,*156,0,no function
+CYP2D6,*161,0,no function
+CYP3A5,*1,1,normal function
+CYP3A5,*3,0,no function
+CYP3A5,*6,0,no function
+CYP3A5,*7,0,no function
+CYP4F2,*1,1,normal function
+CYP4F2,*3,0.5,decreased function
+DPYD,Reference,1,normal function
+DPYD,c.1905+1G>A (*2A),0,no function
+DPYD,c.1679T>G (*13),0,no function
+DPYD,c.2846A>T,0.5,decreased function
+DPYD,c.1129-5923C>G (HapB3),0.5,decreased function
+G6PD,B (reference),1,normal
+G6PD,A,1,normal
+G6PD,A-,0,deficient
+G6PD,Mediterranean,0,deficient
+G6PD,Canton,0,deficient
+G6PD,Mahidol,0,deficient
+G6PD,Viangchan,0,deficient
+G6PD,Union,0,deficient
+MT-RNR1,Reference,1,normal risk
+MT-RNR1,m.1555A>G,0,increased risk
+MT-RNR1,m.1494C>T,0,increased risk
+MT-RNR1,m.1095T>C,0,increased risk
+NAT2,*1,2,increased function
+NAT2,*4,2,increased function
+NAT2,*5,0,decreased function
+NAT2,*6,0,decreased function
+NAT2,*7,0,decreased function
+NAT2,*14,0,decreased function
+NAT2,*15,0,decreased function
+NAT2,*16,0,decreased function
+NAT2,*19,0,decreased function
+NAT2,*29,0,decreased function
+NAT2,*30,0,decreased function
+NAT2,*31,0,decreased function
+NAT2,*32,0,decreased function
+NAT2,*33,0,decreased function
+NAT2,*34,0,decreased function
+NAT2,*35,0,decreased function
+NAT2,*36,0,decreased function
+NAT2,*37,0,decreased function
+NAT2,*38,0,decreased function
+NAT2,*39,0,decreased function
+NAT2,*40,0,decreased function
+NAT2,*46,0,decreased function
+NAT2,*47,0,decreased function
+NAT2,*48,0,decreased function
+NAT2,*49,0,decreased function
+NAT2,*50,0,decreased function
+NAT2,*52,0,decreased function
+NAT2,*53,0,decreased function
+NAT2,*56,0,decreased function
+NAT2,*58,0,decreased function
+NAT2,*59,0,decreased function
+NAT2,*62,0,decreased function
+NAT2,*63,0,decreased function
+NAT2,*64,0,decreased function
+NAT2,*66,0,decreased function
+NAT2,*67,0,decreased function
+NAT2,*68,0,decreased function
+NAT2,*69,0,decreased function
+NAT2,*70,0,decreased function
+NAT2,*72,0,decreased function
+NAT2,*73,0,decreased function
+NAT2,*75,0,decreased function
+NUDT15,*1,1,normal function
+NUDT15,*5,0.5,decreased function
+NUDT15,*8,0.5,decreased function
+NUDT15,*3,0,no function
+NUDT15,*4,0,no function
+NUDT15,*6,0,no function
+NUDT15,*7,0,no function
+NUDT15,*9,0,no function
+NUDT15,*10,0,no function
+NUDT15,*13,0,no function
+NUDT15,*14,0,no function
+NUDT15,*17,0,no function
+NUDT15,*18,0,no function
+NUDT15,*19,0,no function
+RYR1,Reference,1,normal function
+RYR1,c.418G>A,1,normal function
+RYR1,c.2447C>T,1,normal function
+RYR1,c.2797G>A,1,normal function
+RYR1,c.3224G>A,1,normal function
+RYR1,c.4024A>G,1,normal function
+RYR1,c.4178A>G,1,normal function
+RYR1,c.4711A>G,1,normal function
+RYR1,c.5036G>A,1,normal function
+RYR1,c.5317C>T,1,normal function
+RYR1,c.5360C>T,1,normal function
+RYR1,c.6178G>T,1,normal function
+RYR1,c.6670C>T,1,normal function
+RYR1,c.6961A>G,1,normal function
+RYR1,c.7025A>G,1,normal function
+RYR1,c.7816T>A,1,normal function
+RYR1,c.8327C>T,1,normal function
+RYR1,c.8360C>G,1,normal function
+RYR1,c.10097G>A,1,normal function
+RYR1,c.10100A>G,1,normal function
+RYR1,c.10616G>A,1,normal function
+RYR1,c.10747G>C,1,normal function
+RYR1,c.11266C>G,1,normal function
+RYR1,c.11798A>G,1,normal function
+RYR1,c.12310G>C,1,normal function
+RYR1,c.12406C>A,1,normal function
+RYR1,c.12881C>T,1,normal function
+RYR1,c.12884C>T,1,normal function
+RYR1,c.13513G>C,1,normal function
+RYR1,c.14168G>A,1,normal function
+RYR1,c.38T>G,0,malignant hyperthermia associated
+RYR1,c.97A>G,0,malignant hyperthermia associated
+RYR1,c.103T>C,0,malignant hyperthermia associated
+RYR1,c.130C>T,0,malignant hyperthermia associated
+RYR1,c.463C>A,0,malignant hyperthermia associated
+RYR1,c.487C>T,0,malignant hyperthermia associated
+RYR1,c.488G>T,0,malignant hyperthermia associated
+RYR1,c.529C>T,0,malignant hyperthermia associated
+RYR1,c.533A>G,0,malignant hyperthermia associated
+RYR1,c.742G>A,0,malignant hyperthermia associated
+RYR1,c.742G>C,0,malignant hyperthermia associated
+RYR1,c.982C>T,0,malignant hyperthermia associated
+RYR1,c.1021G>A,0,malignant hyperthermia associated
+RYR1,c.1021G>C,0,malignant hyperthermia associated
+RYR1,c.1201C>T,0,malignant hyperthermia associated
+RYR1,c.1202G>A,0,malignant hyperthermia associated
+RYR1,c.1202G>T,0,malignant hyperthermia associated
+RYR1,c.1565A>C,0,malignant hyperthermia associated
+RYR1,c.1565A>G,0,malignant hyperthermia associated
+RYR1,c.1589G>A,0,malignant hyperthermia associated
+RYR1,c.1597C>T,0,malignant hyperthermia associated
+RYR1,c.1615T>C,0,malignant hyperthermia associated
+RYR1,c.1615T>G,0,malignant hyperthermia associated
+RYR1,c.1630G>T,0,malignant hyperthermia associated
+RYR1,c.1654C>T,0,malignant hyperthermia associated
+RYR1,c.1840C>T,0,malignant hyperthermia associated
+RYR1,c.1841G>T,0,malignant hyperthermia associated
+RYR1,c.3166G>C,0,malignant hyperthermia associated
+RYR1,c.5183C>T,0,malignant hyperthermia associated
+RYR1,c.6349G>C,0,malignant hyperthermia associated
+RYR1,c.6387C>G,0,malignant hyperthermia associated
+RYR1,c.6487C>T,0,malignant hyperthermia associated
+RYR1,c.6488G>A,0,malignant hyperthermia associated
+RYR1,c.6488G>C,0,malignant hyperthermia associated
+RYR1,c.6488G>T,0,malignant hyperthermia associated
+RYR1,c.6502G>A,0,malignant hyperthermia associated
+RYR1,c.6612C>G,0,malignant hyperthermia associated
+RYR1,c.6617C>G,0,malignant hyperthermia associated
+RYR1,c.6617C>T,0,malignant hyperthermia associated
+RYR1,c.6628G>T,0,malignant hyperthermia associated
+RYR1,c.6838G>A,0,malignant hyperthermia associated
+RYR1,c.7007G>A,0,malignant hyperthermia associated
+RYR1,c.7035C>A,0,malignant hyperthermia associated
+RYR1,c.7036G>A,0,malignant hyperthermia associated
+RYR1,c.7042_7044delGAG,0,malignant hyperthermia associated
+RYR1,c.7043A>G,0,malignant hyperthermia associated
+RYR1,c.7048G>A,0,malignant hyperthermia associated
+RYR1,c.7060G>A,0,malignant hyperthermia associated
+RYR1,c.7063C>T,0,malignant hyperthermia associated
+RYR1,c.7076G>A,0,malignant hyperthermia associated
+RYR1,c.7084G>A,0,malignant hyperthermia associated
+RYR1,c.7090T>G,0,malignant hyperthermia associated
+RYR1,c.7123G>A,0,malignant hyperthermia associated
+RYR1,c.7124G>C,0,malignant hyperthermia associated
+RYR1,c.7282G>A,0,malignant hyperthermia associated
+RYR1,c.7291G>A,0,malignant hyperthermia associated
+RYR1,c.7291G>T,0,malignant hyperthermia associated
+RYR1,c.7300G>A,0,malignant hyperthermia associated
+RYR1,c.7304G>A,0,malignant hyperthermia associated
+RYR1,c.7304G>T,0,malignant hyperthermia associated
+RYR1,c.7310C>T,0,malignant hyperthermia associated
+RYR1,c.7354C>T,0,malignant hyperthermia associated
+RYR1,c.7358T>C,0,malignant hyperthermia associated
+RYR1,c.7360C>T,0,malignant hyperthermia associated
+RYR1,c.7361G>A,0,malignant hyperthermia associated
+RYR1,c.7372C>T,0,malignant hyperthermia associated
+RYR1,c.7373G>A,0,malignant hyperthermia associated
+RYR1,c.7373G>T,0,malignant hyperthermia associated
+RYR1,c.7522C>T,0,malignant hyperthermia associated
+RYR1,c.7523G>A,0,malignant hyperthermia associated
+RYR1,c.7879G>C,0,malignant hyperthermia associated
+RYR1,c.8026C>T,0,malignant hyperthermia associated
+RYR1,c.9310G>A,0,malignant hyperthermia associated
+RYR1,c.11315G>A,0,malignant hyperthermia associated
+RYR1,c.11708G>A,0,malignant hyperthermia associated
+RYR1,c.11969G>T,0,malignant hyperthermia associated
+RYR1,c.12149C>A,0,malignant hyperthermia associated
+RYR1,c.12700G>C,0,malignant hyperthermia associated
+RYR1,c.12700G>T,0,malignant hyperthermia associated
+RYR1,c.14209C>T,0,malignant hyperthermia associated
+RYR1,c.14210G>A,0,malignant hyperthermia associated
+RYR1,c.14477C>T,0,malignant hyperthermia associated
+RYR1,c.14497C>T,0,malignant hyperthermia associated
+RYR1,c.14512C>G,0,malignant hyperthermia associated
+RYR1,c.14539G>C,0,malignant hyperthermia associated
+RYR1,c.14545G>A,0,malignant hyperthermia associated
+RYR1,c.14627A>G,0,malignant hyperthermia associated
+RYR1,c.14803G>A,0,malignant hyperthermia associated
+RYR1,c.14918C>T,0,malignant hyperthermia associated
+SLCO1B1,*1,1,normal function
+SLCO1B1,*37,1,normal function
+SLCO1B1,*14,1.5,increased function
+SLCO1B1,*20,1.5,increased function
+SLCO1B1,*5,0,no function
+SLCO1B1,*9,0,no function
+SLCO1B1,*15,0,no function
+SLCO1B1,*23,0,no function
+SLCO1B1,*31,0,no function
+SLCO1B1,*39,0,no function
+SLCO1B1,*41,0,no function
+SLCO1B1,*45,0,no function
+SLCO1B1,*47,0,no function
+SLCO1B1,*48,0,no function
+SLCO1B1,*49,0,no function
+TPMT,*1,1,normal function
+TPMT,*8,0.5,decreased function
+TPMT,*2,0,no function
+TPMT,*3A,0,no function
+TPMT,*3B,0,no function
+TPMT,*3C,0,no function
+TPMT,*4,0,no function
+TPMT,*5,0,no function
+TPMT,*6,0,no function
+TPMT,*7,0,no function
+TPMT,*10,0,no function
+TPMT,*11,0,no function
+TPMT,*13,0,no function
+TPMT,*14,0,no function
+TPMT,*15,0,no function
+TPMT,*16,0,no function
+TPMT,*17,0,no function
+TPMT,*18,0,no function
+TPMT,*20,0,no function
+TPMT,*21,0,no function
+TPMT,*22,0,no function
+TPMT,*23,0,no function
+TPMT,*25,0,no function
+TPMT,*26,0,no function
+TPMT,*27,0,no function
+TPMT,*28,0,no function
+TPMT,*29,0,no function
+TPMT,*31,0,no function
+TPMT,*33,0,no function
+TPMT,*34,0,no function
+TPMT,*37,0,no function
+TPMT,*38,0,no function
+TPMT,*39,0,no function
+TPMT,*41,0,no function
+TPMT,*42,0,no function
+TPMT,*43,0,no function
+TPMT,*44,0,no function
+TPMT,*45,0,no function
+TPMT,*46,0,no function
+TPMT,*47,0,no function
+UGT1A1,*1,1,normal function
+UGT1A1,*36,1.5,increased function
+UGT1A1,*6,0.5,decreased function
+UGT1A1,*27,0.5,decreased function
+UGT1A1,*28,0.5,decreased function
+UGT1A1,*37,0.5,decreased function
+UGT1A1,*80+*28,0.5,decreased function
+UGT1A1,*80+*37,0.5,decreased function
+CYP4F2,*1,1,normal function
+CYP4F2,*3,0.5,decreased function
+VKORC1,G,1,normal expression
+VKORC1,A,0.5,decreased expression
+CFTR,normal,1,normal function
+CFTR,F508del,0,no function
+CFTR,G551D,0,defective gating
+HLA-B,*57:01,0,risk allele
+HLA-B,*15:02,0,risk allele
+HLA-B,*58:01,0,risk allele
+HLA-B,other,1,normal
+HLA-A,*31:01,0,risk allele
+HLA-A,other,1,normal
+IFNL3,C,1,favorable response
+IFNL3,T,0,unfavorable response

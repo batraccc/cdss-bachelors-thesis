@@ -1,0 +1,59 @@
+gene,min_score,max_score,allele_combination,phenotype
+CYP2D6,0,0,,poor metabolizer
+CYP2D6,0.25,1,,intermediate metabolizer
+CYP2D6,1.25,2.25,,normal metabolizer
+CYP2D6,2.25,999,,ultrarapid metabolizer
+CYP2C19,0,0,,poor metabolizer
+CYP2C19,0.5,1,,intermediate metabolizer
+CYP2C19,1.5,2,,normal metabolizer
+CYP2C19,2.5,999,,ultrarapid metabolizer
+CYP2C9,0,0,,poor metabolizer
+CYP2C9,0.5,1,,intermediate metabolizer
+CYP2C9,1.5,2,,normal metabolizer
+CYP2B6,0,0,,poor metabolizer
+CYP2B6,0.5,1,,intermediate metabolizer
+CYP2B6,1.5,2,,normal metabolizer
+CYP2B6,2.5,999,,ultrarapid metabolizer
+CYP3A5,0,0,,poor metabolizer
+CYP3A5,0.5,999,,expressor
+TPMT,,,*1/*1,normal metabolizer
+TPMT,,,*1/*variant,intermediate metabolizer
+TPMT,,,*variant/*variant,poor metabolizer
+NUDT15,,,*1/*1,normal metabolizer
+NUDT15,,,*1/*variant,intermediate metabolizer
+NUDT15,,,*variant/*variant,poor metabolizer
+DPYD,,,normal,normal metabolizer
+DPYD,,,intermediate,intermediate metabolizer
+DPYD,,,poor,poor metabolizer
+UGT1A1,,,normal,normal metabolizer
+UGT1A1,,,intermediate,intermediate metabolizer
+UGT1A1,,,poor,poor metabolizer
+NAT2,,,slow,slow acetylator
+NAT2,,,intermediate,intermediate acetylator
+NAT2,,,fast,fast acetylator
+SLCO1B1,,,normal,normal function
+SLCO1B1,,,decreased,decreased function
+SLCO1B1,,,low,low function
+ABCG2,,,normal,normal function
+ABCG2,,,decreased,decreased function
+HLA-B,,,positive,high risk
+HLA-B,,,negative,low risk
+HLA-A,,,positive,high risk
+HLA-A,,,negative,low risk
+G6PD,,,deficient,deficient
+G6PD,,,normal,normal
+MT-RNR1,,,variant,high risk
+MT-RNR1,,,normal,low risk
+RYR1,,,variant,high risk
+RYR1,,,normal,low risk
+CACNA1S,,,variant,high risk
+CACNA1S,,,normal,low risk
+CFTR,,,responsive,responsive
+CFTR,,,non_responsive,non-responsive
+IFNL3,,,favorable,favorable
+IFNL3,,,unfavorable,unfavorable
+VKORC1,,,increased,increased sensitivity
+VKORC1,,,normal,normal sensitivity
+VKORC1,,,decreased,decreased sensitivity
+CYP4F2,,,normal,normal
+CYP4F2,,,increased,increased dose requirement

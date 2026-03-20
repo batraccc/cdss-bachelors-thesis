@@ -1,0 +1,244 @@
+drug,gene,phenotype,effect,strength
+ivacaftor,CFTR,ivacaftor responsive mutation,drug is effective and improves CFTR channel function,strong
+ivacaftor,CFTR,ivacaftor non-responsive mutation,no clinical benefit expected,strong
+efavirenz,CYP2B6,ultrarapid metabolizer,decreased efavirenz exposure due to increased metabolism,moderate
+efavirenz,CYP2B6,rapid metabolizer,slightly decreased efavirenz exposure,moderate
+efavirenz,CYP2B6,normal metabolizer,normal efavirenz metabolism,strong
+efavirenz,CYP2B6,intermediate metabolizer,increased efavirenz exposure and risk of CNS side effects,strong
+efavirenz,CYP2B6,poor metabolizer,markedly increased efavirenz exposure and high risk of CNS toxicity,strong
+methadone,CYP2B6,rapid metabolizer,slightly decreased methadone plasma concentrations,moderate
+methadone,CYP2B6,normal metabolizer,normal methadone metabolism,strong
+methadone,CYP2B6,intermediate metabolizer,increased S-methadone plasma concentrations with unclear clinical significance,moderate
+methadone,CYP2B6,poor metabolizer,increased S-methadone plasma concentrations with unclear clinical significance,moderate
+clopidogrel,CYP2C19,ultrarapid metabolizer,increased clopidogrel active metabolite formation and lower platelet reactivity,strong
+clopidogrel,CYP2C19,rapid metabolizer,normal or increased clopidogrel activation,strong
+clopidogrel,CYP2C19,normal metabolizer,normal clopidogrel activation,strong
+clopidogrel,CYP2C19,intermediate metabolizer,reduced clopidogrel active metabolite formation and increased risk of adverse cardiovascular events,strong
+clopidogrel,CYP2C19,poor metabolizer,significantly reduced clopidogrel activation and high risk of treatment failure,strong
+omeprazole,CYP2C19,ultrarapid metabolizer,decreased plasma concentration and risk of treatment failure,moderate
+omeprazole,CYP2C19,rapid metabolizer,decreased exposure compared to normal metabolizer,moderate
+omeprazole,CYP2C19,normal metabolizer,normal metabolism,moderate
+omeprazole,CYP2C19,intermediate metabolizer,increased exposure and increased efficacy risk of toxicity,moderate
+omeprazole,CYP2C19,poor metabolizer,markedly increased exposure and prolonged acid suppression,moderate
+lansoprazole,CYP2C19,ultrarapid metabolizer,decreased plasma concentration and risk of treatment failure,moderate
+lansoprazole,CYP2C19,rapid metabolizer,decreased exposure compared to normal metabolizer,moderate
+lansoprazole,CYP2C19,normal metabolizer,normal metabolism,moderate
+lansoprazole,CYP2C19,intermediate metabolizer,increased exposure and increased efficacy risk of toxicity,moderate
+lansoprazole,CYP2C19,poor metabolizer,markedly increased exposure and prolonged acid suppression,moderate
+pantoprazole,CYP2C19,ultrarapid metabolizer,decreased plasma concentration and risk of treatment failure,moderate
+pantoprazole,CYP2C19,rapid metabolizer,decreased exposure compared to normal metabolizer,moderate
+pantoprazole,CYP2C19,normal metabolizer,normal metabolism,moderate
+pantoprazole,CYP2C19,intermediate metabolizer,increased exposure and increased efficacy risk of toxicity,moderate
+pantoprazole,CYP2C19,poor metabolizer,markedly increased exposure and prolonged acid suppression,moderate
+dexlansoprazole,CYP2C19,ultrarapid metabolizer,decreased exposure and potential reduced efficacy,optional
+dexlansoprazole,CYP2C19,rapid metabolizer,decreased exposure compared to normal metabolizer,optional
+dexlansoprazole,CYP2C19,normal metabolizer,normal metabolism,optional
+dexlansoprazole,CYP2C19,intermediate metabolizer,increased exposure,optional
+dexlansoprazole,CYP2C19,poor metabolizer,markedly increased exposure,optional
+voriconazole,CYP2C19,ultrarapid metabolizer,subtherapeutic drug concentrations and treatment failure risk,moderate
+voriconazole,CYP2C19,rapid metabolizer,lower voriconazole exposure and reduced probability of therapeutic concentrations,moderate
+voriconazole,CYP2C19,normal metabolizer,expected drug exposure and response,strong
+voriconazole,CYP2C19,intermediate metabolizer,higher drug exposure than normal metabolizers,moderate
+voriconazole,CYP2C19,poor metabolizer,very high drug exposure and increased toxicity risk,moderate
+celecoxib,CYP2C9,normal metabolizer,normal metabolism,strong
+celecoxib,CYP2C9,intermediate metabolizer,increased drug exposure and toxicity risk,moderate
+celecoxib,CYP2C9,poor metabolizer,markedly increased drug exposure and toxicity risk,moderate
+flurbiprofen,CYP2C9,normal metabolizer,normal metabolism,strong
+flurbiprofen,CYP2C9,intermediate metabolizer,increased drug exposure and toxicity risk,moderate
+flurbiprofen,CYP2C9,poor metabolizer,markedly increased drug exposure and toxicity risk,moderate
+ibuprofen,CYP2C9,normal metabolizer,normal metabolism,strong
+ibuprofen,CYP2C9,intermediate metabolizer,increased exposure and prolonged half life,moderate
+ibuprofen,CYP2C9,poor metabolizer,markedly increased exposure and toxicity risk,moderate
+lornoxicam,CYP2C9,normal metabolizer,normal metabolism,strong
+lornoxicam,CYP2C9,intermediate metabolizer,increased exposure and toxicity risk,moderate
+lornoxicam,CYP2C9,poor metabolizer,markedly increased exposure and toxicity risk,moderate
+meloxicam,CYP2C9,normal metabolizer,normal metabolism,strong
+meloxicam,CYP2C9,intermediate metabolizer,increased drug exposure,moderate
+meloxicam,CYP2C9,poor metabolizer,markedly increased exposure and prolonged half life,moderate
+piroxicam,CYP2C9,normal metabolizer,normal metabolism,strong
+piroxicam,CYP2C9,intermediate metabolizer,markedly increased exposure risk,moderate
+piroxicam,CYP2C9,poor metabolizer,markedly increased exposure risk,moderate
+tenoxicam,CYP2C9,normal metabolizer,normal metabolism,strong
+tenoxicam,CYP2C9,intermediate metabolizer,markedly increased exposure risk,optional
+tenoxicam,CYP2C9,poor metabolizer,markedly increased exposure risk,optional
+phenytoin,HLA-B,HLA-B*15:02 positive,increased risk of severe cutaneous adverse reactions (SJS/TEN),strong
+phenytoin,HLA-B,HLA-B*15:02 negative,normal hypersensitivity risk,strong
+phenytoin,CYP2C9,normal metabolizer,normal phenytoin metabolism,strong
+phenytoin,CYP2C9,intermediate metabolizer,reduced metabolism and increased drug exposure,moderate
+phenytoin,CYP2C9,poor metabolizer,significantly reduced metabolism and high toxicity risk,strong
+warfarin,CYP2C9,normal metabolizer,normal warfarin metabolism,strong
+warfarin,CYP2C9,intermediate metabolizer,reduced metabolism leading to lower dose requirement,strong
+warfarin,CYP2C9,poor metabolizer,markedly reduced metabolism and increased bleeding risk,strong
+warfarin,VKORC1,normal expression,normal warfarin sensitivity,strong
+warfarin,VKORC1,decreased expression,increased sensitivity requiring lower dose,strong
+warfarin,CYP4F2,normal function,standard warfarin dose requirement,moderate
+warfarin,CYP4F2,decreased function,slightly increased dose requirement,moderate
+atomoxetine,CYP2D6,ultrarapid metabolizer,reduced drug exposure and possible lack of efficacy,moderate
+atomoxetine,CYP2D6,normal metabolizer,normal metabolism with possible lower response compared to poor metabolizers,moderate
+atomoxetine,CYP2D6,intermediate metabolizer,decreased metabolism leading to higher exposure,moderate
+atomoxetine,CYP2D6,poor metabolizer,markedly decreased metabolism causing increased exposure and side effect risk,strong
+ondansetron,CYP2D6,ultrarapid metabolizer,decreased drug exposure and reduced antiemetic efficacy,moderate
+ondansetron,CYP2D6,normal metabolizer,normal drug metabolism and expected response,strong
+ondansetron,CYP2D6,intermediate metabolizer,no clinically significant effect identified,weak
+ondansetron,CYP2D6,poor metabolizer,no clinically significant effect identified,weak
+tropisetron,CYP2D6,ultrarapid metabolizer,decreased drug exposure and reduced antiemetic efficacy,moderate
+tropisetron,CYP2D6,normal metabolizer,normal drug metabolism and expected response,strong
+tropisetron,CYP2D6,intermediate metabolizer,no clinically significant effect identified,weak
+tropisetron,CYP2D6,poor metabolizer,no clinically significant effect identified,weak
+tamoxifen,CYP2D6,ultrarapid metabolizer,normal metabolism leading to adequate endoxifen exposure,strong
+tamoxifen,CYP2D6,normal metabolizer,normal metabolism leading to adequate endoxifen exposure,strong
+tamoxifen,CYP2D6,intermediate metabolizer,reduced metabolism leading to lower endoxifen concentrations,moderate
+tamoxifen,CYP2D6,poor metabolizer,markedly reduced metabolism leading to very low endoxifen concentrations,strong
+metoprolol,CYP2D6,ultrarapid metabolizer,increased metabolism leading to reduced drug exposure,weak
+metoprolol,CYP2D6,normal metabolizer,normal metabolism and expected drug exposure,strong
+metoprolol,CYP2D6,intermediate metabolizer,moderately reduced metabolism leading to increased drug exposure,moderate
+metoprolol,CYP2D6,poor metabolizer,markedly reduced metabolism leading to significantly increased drug exposure,moderate
+amitriptyline,CYP2D6,ultrarapid metabolizer,increased metabolism leading to reduced plasma concentrations,strong
+amitriptyline,CYP2D6,normal metabolizer,normal metabolism,strong
+amitriptyline,CYP2D6,intermediate metabolizer,reduced metabolism leading to increased plasma concentrations,moderate
+amitriptyline,CYP2D6,poor metabolizer,markedly reduced metabolism leading to high plasma concentrations,strong
+nortriptyline,CYP2D6,ultrarapid metabolizer,increased metabolism leading to reduced plasma concentrations,strong
+nortriptyline,CYP2D6,normal metabolizer,normal metabolism,strong
+nortriptyline,CYP2D6,intermediate metabolizer,reduced metabolism leading to increased plasma concentrations,moderate
+nortriptyline,CYP2D6,poor metabolizer,markedly reduced metabolism leading to high plasma concentrations,strong
+amitriptyline,CYP2C19,ultrarapid metabolizer,increased metabolism of tertiary amines,strong
+amitriptyline,CYP2C19,rapid metabolizer,increased metabolism of tertiary amines,moderate
+amitriptyline,CYP2C19,normal metabolizer,normal metabolism,strong
+amitriptyline,CYP2C19,intermediate metabolizer,reduced metabolism,moderate
+amitriptyline,CYP2C19,poor metabolizer,markedly reduced metabolism,strong
+paroxetine,CYP2D6,ultrarapid metabolizer,increased metabolism leading to reduced plasma concentrations,strong
+paroxetine,CYP2D6,normal metabolizer,normal metabolism,strong
+paroxetine,CYP2D6,intermediate metabolizer,reduced metabolism leading to increased plasma concentrations,moderate
+paroxetine,CYP2D6,poor metabolizer,markedly reduced metabolism leading to high plasma concentrations,strong
+fluvoxamine,CYP2D6,normal metabolizer,normal metabolism,strong
+fluvoxamine,CYP2D6,intermediate metabolizer,reduced metabolism,moderate
+fluvoxamine,CYP2D6,poor metabolizer,reduced metabolism leading to increased plasma levels,moderate
+venlafaxine,CYP2D6,ultrarapid metabolizer,increased conversion to active metabolite,weak
+venlafaxine,CYP2D6,normal metabolizer,normal metabolism,strong
+venlafaxine,CYP2D6,intermediate metabolizer,reduced metabolism,weak
+venlafaxine,CYP2D6,poor metabolizer,reduced metabolism and increased adverse effects risk,moderate
+vortioxetine,CYP2D6,ultrarapid metabolizer,increased metabolism leading to reduced drug exposure,strong
+vortioxetine,CYP2D6,normal metabolizer,normal metabolism,strong
+vortioxetine,CYP2D6,intermediate metabolizer,reduced metabolism,moderate
+vortioxetine,CYP2D6,poor metabolizer,markedly reduced metabolism leading to higher concentrations,strong
+citalopram,CYP2C19,ultrarapid metabolizer,increased metabolism leading to reduced exposure,strong
+citalopram,CYP2C19,rapid metabolizer,increased metabolism,moderate
+citalopram,CYP2C19,normal metabolizer,normal metabolism,strong
+citalopram,CYP2C19,intermediate metabolizer,reduced metabolism leading to higher concentrations,moderate
+citalopram,CYP2C19,poor metabolizer,markedly reduced metabolism leading to toxicity risk,strong
+escitalopram,CYP2C19,ultrarapid metabolizer,increased metabolism leading to reduced exposure,strong
+escitalopram,CYP2C19,rapid metabolizer,increased metabolism,moderate
+escitalopram,CYP2C19,normal metabolizer,normal metabolism,strong
+escitalopram,CYP2C19,intermediate metabolizer,reduced metabolism,moderate
+escitalopram,CYP2C19,poor metabolizer,markedly reduced metabolism leading to higher concentrations,strong
+sertraline,CYP2C19,ultrarapid metabolizer,slightly increased metabolism,weak
+sertraline,CYP2C19,rapid metabolizer,increased metabolism,weak
+sertraline,CYP2C19,normal metabolizer,normal metabolism,strong
+sertraline,CYP2C19,intermediate metabolizer,reduced metabolism leading to higher concentrations,moderate
+sertraline,CYP2C19,poor metabolizer,markedly reduced metabolism leading to toxicity risk,strong
+sertraline,CYP2B6,ultrarapid metabolizer,increased metabolism,weak
+sertraline,CYP2B6,rapid metabolizer,increased metabolism,weak
+sertraline,CYP2B6,normal metabolizer,normal metabolism,strong
+sertraline,CYP2B6,intermediate metabolizer,reduced metabolism,moderate
+sertraline,CYP2B6,poor metabolizer,markedly reduced metabolism leading to higher concentrations,strong
+codeine,CYP2D6,ultrarapid metabolizer,increased conversion to morphine causing toxicity risk,strong
+codeine,CYP2D6,normal metabolizer,expected morphine formation and normal analgesia,strong
+codeine,CYP2D6,intermediate metabolizer,reduced morphine formation leading to weaker analgesia,moderate
+codeine,CYP2D6,poor metabolizer,very low morphine formation leading to loss of analgesic effect,strong
+tramadol,CYP2D6,ultrarapid metabolizer,increased formation of active metabolite causing toxicity risk,strong
+tramadol,CYP2D6,normal metabolizer,expected active metabolite formation,strong
+tramadol,CYP2D6,intermediate metabolizer,reduced active metabolite formation leading to weaker analgesia,moderate
+tramadol,CYP2D6,poor metabolizer,very low active metabolite formation leading to poor analgesia,strong
+hydrocodone,CYP2D6,normal metabolizer,normal metabolism to hydromorphone,strong
+hydrocodone,CYP2D6,intermediate metabolizer,reduced metabolism to active metabolite,weak
+hydrocodone,CYP2D6,poor metabolizer,reduced metabolism to active metabolite,weak
+tacrolimus,CYP3A5,extensive metabolizer,increased metabolism leading to lower tacrolimus exposure,strong
+tacrolimus,CYP3A5,intermediate metabolizer,increased metabolism leading to lower tacrolimus exposure,strong
+tacrolimus,CYP3A5,poor metabolizer,normal metabolism leading to higher tacrolimus exposure,strong
+capecitabine,DPYD,normal metabolizer,normal metabolism and normal toxicity risk,strong
+capecitabine,DPYD,intermediate metabolizer,decreased metabolism leading to increased toxicity risk,strong
+capecitabine,DPYD,poor metabolizer,severely decreased metabolism leading to high toxicity risk,strong
+fluorouracil,DPYD,normal metabolizer,normal metabolism and normal toxicity risk,strong
+fluorouracil,DPYD,intermediate metabolizer,decreased metabolism leading to increased toxicity risk,strong
+fluorouracil,DPYD,poor metabolizer,severely decreased metabolism leading to high toxicity risk,strong
+tegafur,DPYD,normal metabolizer,potentially altered metabolism but insufficient evidence,moderate
+tegafur,DPYD,intermediate metabolizer,potentially increased toxicity risk,moderate
+tegafur,DPYD,poor metabolizer,potentially severe toxicity risk,moderate
+rasburicase,G6PD,deficient,high risk of acute hemolytic anemia,strong
+pegloticase,G6PD,deficient,high risk of acute hemolytic anemia,strong
+tafenoquine,G6PD,deficient,high risk of acute hemolytic anemia,strong
+dapsone,G6PD,deficient,high risk of acute hemolytic anemia,strong
+methylene blue,G6PD,deficient,high risk of acute hemolytic anemia,moderate
+nitrofurantoin,G6PD,deficient,moderate risk of hemolysis,optional
+primaquine,G6PD,deficient,dose dependent hemolysis risk,strong
+sulfamethoxazole,G6PD,deficient,low to no risk of hemolysis,optional
+aspirin,G6PD,deficient,low to no risk of hemolysis,moderate
+chloroquine,G6PD,deficient,low to no risk of hemolysis,moderate
+hydroxychloroquine,G6PD,deficient,low to no risk of hemolysis,moderate
+vitamin c,G6PD,deficient,low to no risk of hemolysis,moderate
+vitamin k,G6PD,deficient,low to no risk of hemolysis,moderate
+carbamazepine,HLA-B,carrier,high risk of Stevens-Johnson syndrome or toxic epidermal necrolysis,strong
+carbamazepine,HLA-A,carrier,increased risk of hypersensitivity reactions,strong
+oxcarbazepine,HLA-B,carrier,increased risk of Stevens-Johnson syndrome or toxic epidermal necrolysis,moderate
+oxcarbazepine,HLA-A,carrier,increased risk of hypersensitivity reactions,moderate
+abacavir,HLA-B,carrier,high risk of abacavir hypersensitivity syndrome,strong
+abacavir,HLA-B,non carrier,normal risk,strong
+allopurinol,HLA-B,carrier,high risk of severe cutaneous adverse reactions,strong
+allopurinol,HLA-B,non carrier,normal risk,strong
+peginterferon alfa-2a,IFNL3,favorable response,higher likelihood of sustained virologic response,strong
+peginterferon alfa-2a,IFNL3,unfavorable response,lower likelihood of sustained virologic response,strong
+peginterferon alfa-2b,IFNL3,favorable response,higher likelihood of sustained virologic response,strong
+peginterferon alfa-2b,IFNL3,unfavorable response,lower likelihood of sustained virologic response,strong
+ribavirin,IFNL3,favorable response,higher likelihood of sustained virologic response,strong
+ribavirin,IFNL3,unfavorable response,lower likelihood of sustained virologic response,strong
+amikacin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+gentamicin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+tobramycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+kanamycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+neomycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+streptomycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+netilmicin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+paromomycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+plazomicin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+dibekacin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+ribostamycin,MT-RNR1,increased risk,high risk of aminoglycoside induced hearing loss,strong
+hydralazine,NAT2,slow acetylator,increased exposure and increased risk of hydralazine induced lupus,moderate
+hydralazine,NAT2,intermediate acetylator,moderate exposure,moderate
+hydralazine,NAT2,rapid acetylator,lower exposure due to faster metabolism,moderate
+desflurane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+enflurane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+halothane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+isoflurane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+methoxyflurane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+sevoflurane,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+succinylcholine,RYR1,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+desflurane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+enflurane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+halothane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+isoflurane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+methoxyflurane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+sevoflurane,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+succinylcholine,CACNA1S,malignant hyperthermia susceptibility,high risk of malignant hyperthermia,strong
+simvastatin,SLCO1B1,decreased function,increased statin exposure and increased myopathy risk,strong
+simvastatin,SLCO1B1,poor function,markedly increased myopathy risk,strong
+atorvastatin,SLCO1B1,decreased function,moderately increased statin exposure,moderate
+atorvastatin,SLCO1B1,poor function,increased myopathy risk,moderate
+rosuvastatin,SLCO1B1,decreased function,moderately increased statin exposure,moderate
+rosuvastatin,SLCO1B1,poor function,increased myopathy risk,moderate
+pravastatin,SLCO1B1,decreased function,moderately increased statin exposure,moderate
+fluvastatin,SLCO1B1,decreased function,minor pharmacokinetic effect,optional
+pitavastatin,SLCO1B1,decreased function,minor pharmacokinetic effect,optional
+azathioprine,TPMT,intermediate metabolizer,increased thiopurine toxicity risk,strong
+azathioprine,TPMT,poor metabolizer,severely increased thiopurine toxicity risk,strong
+mercaptopurine,TPMT,intermediate metabolizer,increased thiopurine toxicity risk,strong
+mercaptopurine,TPMT,poor metabolizer,severely increased thiopurine toxicity risk,strong
+thioguanine,TPMT,intermediate metabolizer,increased thiopurine toxicity risk,strong
+thioguanine,TPMT,poor metabolizer,severely increased thiopurine toxicity risk,strong
+azathioprine,NUDT15,intermediate metabolizer,increased thiopurine toxicity risk,strong
+azathioprine,NUDT15,poor metabolizer,severely increased thiopurine toxicity risk,strong
+mercaptopurine,NUDT15,intermediate metabolizer,increased thiopurine toxicity risk,strong
+mercaptopurine,NUDT15,poor metabolizer,severely increased thiopurine toxicity risk,strong
+thioguanine,NUDT15,intermediate metabolizer,increased thiopurine toxicity risk,strong
+thioguanine,NUDT15,poor metabolizer,severely increased thiopurine toxicity risk,strong
+atazanavir,UGT1A1,intermediate metabolizer,increased bilirubin levels due to reduced UGT1A1 activity,strong
+atazanavir,UGT1A1,poor metabolizer,high risk of hyperbilirubinemia,strong

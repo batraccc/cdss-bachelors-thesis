@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  background-color: #f5f7fb;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+h1 {
+  text-align: center;
+  color: #1e3a8a;
+}
+
+h2 {
+  color: #1e40af;
+}
+
+h3 {
+  margin-top: 0;
+  color: #1e3a8a;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+input:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+
+.diplotype {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+button {
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.result-card {
+  margin-top: 30px;
+  padding: 25px;
+  background: #f9fafb;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.result-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 18px;
+}
+
+.label {
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 4px;
+}
+
+.value {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1e3a8a;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.recommendation-box {
+  margin-top: 20px;
+  padding: 15px;
+  background: #eff6ff;
+  border-left: 4px solid #2563eb;
+  border-radius: 6px;
+}
+
+.error {
+  margin-top: 20px;
+  padding: 10px;
+  background: #fee2e2;
+  color: #7f1d1d;
+  border-left: 4px solid red;
+}
+
+.loading {
+  margin-top: 15px;
+  color: #2563eb;
+}

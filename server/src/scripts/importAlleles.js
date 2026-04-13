@@ -31,7 +31,7 @@ fs.createReadStream("src/data/alleles.csv")
         );
 
         if (geneRes.rows.length === 0) {
-          console.warn(`⚠️ Gene not found: ${allele.gene}`);
+          console.warn(`Gene not found: ${allele.gene}`);
           continue;
         }
 
